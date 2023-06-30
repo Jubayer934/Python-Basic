@@ -1,0 +1,49 @@
+Class and object:
+
+example:
+Rabeya
+roll=1
+gpa=4.40
+
+example:
+sakib=2
+gpa=4.23
+
+Student
+roll
+gpa
+
+class= studend
+object=rabeya and sakib
+
+Note:
+ a class is like a blueprint
+ that describes the properties 
+ and behaviors of objects, 
+ while an object is an actual 
+ instance created based on that 
+ blueprint, possessing specific attributes
+ and being able to perform specific
+ actions defined by the class.
+
+
+Inheritance:
+ a system a class can inherit 
+ properties and behaviors from 
+ another class,
+
+ types of Inheritance
+1, Hierarchical Inheritance: a class inheritaned by multiple class
+2, Multi level Inheritance: a class inherit by B and B inherit by C.
+3, Multiple Inheritance: A inherited by b and c.. then b and c inherit by only one D.
+
+
+Abstraction: 
+Must have to use the method of perents class
+
+
+Polymorphism:
+same method working multiple types.
+
+A Python module is a file containing Python definitions and statements
+A module can define functions, classes, and variables.
